@@ -1,8 +1,10 @@
 #### highSchool code
 
-from my days learning java. is it terrible code? indeed.
+each assignment is sorted into the different textbooks/assignments that they came from
 
-but *everyone* writes bad code when they start. bad code leads to good code.
+final projects are seperate, and go in this order of progression: 201 -> 202 -> IB
+
+the comment header at the top of each program will tell you the date, course, and purpose
 
 have a good day/night/whatever
 
