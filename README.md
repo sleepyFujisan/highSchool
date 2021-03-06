@@ -1,10 +1,11 @@
-# highSchool
-all my high school code...
+highSchool code
 
-is it terribly written? yes
+from my days learning java. is it terrible code? indeed.
 
-is it painful to look at? of course
+but everyone writes bad code when they start. bad code leads to good code.
 
-does it throw a lot of exceptions and warnings? indeed
+have a good day/night/whatever
 
-but that is the process of learning, you write bad code because bad code pushes you toward writing good code
+sincerely,
+
+fuji-san🗻
