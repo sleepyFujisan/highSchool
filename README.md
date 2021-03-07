@@ -6,7 +6,7 @@ final projects are seperate, and go in this order of progression: 201 -> 202 -> 
 
 the comment header at the top of each program will tell you the date, course, and purpose
 
-***most programs will be slightly modified for ease of reading, but mostly will be the same terrible code that high school age me wrote***
+***most programs will be slightly modified for ease of reading, but mostly will be the same terrible code that high school me wrote***
 
 have a good day/night/whatever
 
