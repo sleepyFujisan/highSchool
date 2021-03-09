@@ -12,16 +12,16 @@
 
 import java.util.Scanner;
 
-public class EvenOrOddTester {
+public class EvenOrOddTester{
 
 	public static void main(String[]args){
 		Scanner kbReader = new Scanner(System.in);
-		System.out.print("Enter an integer: ");
+		System.out.println("Enter an integer: ");
 		int s = kbReader.nextInt();
 		kbReader.close();
 		if ( s % 2 == 0)
 			System.out.println("The integer " + s + " is even.");
-			else
+		else
 			System.out.println("The integer " + s + " is odd.");
-		}
+	}
 }
