@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class Lesson9{
   public static void main(String[]args){
     //Question 14
-String s1 = "school BUS";
+	String s1 = "school BUS";
 	if (s1.equals("school bus"))
 		System.out.println("Equal");
 	else
@@ -30,11 +30,11 @@ String s2 = "school BUS";
     
     //Question 16
     int j = 19, m = 200;
-			if (j==18)
-				m++;
-				j++;  
-			System.out.println(m);
-			System.out.println(j);
+	if (j==18)
+		m++;
+		j++;  
+	System.out.println(m);
+	System.out.println(j);
     
     //Question 17
     boolean b = ( g  != 34);
@@ -48,9 +48,9 @@ String s2 = "school BUS";
     Scanner Reader = new Scanner(System.in);
 	System.out.print("Enter your password: ");
    	String s = Reader.nextLine();
-	    if (s.equals("Xray"))
+		if (s.equals("Xray"))
 			System.out.println("Password entered successfully.");
-		  else
+		else
 			System.out.println("Incorrect password.");
   }
 }
