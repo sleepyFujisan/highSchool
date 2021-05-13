@@ -8,6 +8,8 @@ the comment header at the top of each program will tell you the date, course, an
 
 ***most programs will be slightly modified for ease of reading, but mostly will be the same terrible code that high school me wrote***
 
+*this is terrible code, if i havent stated that enough*
+
 have a good day/night/whatever
 
 sincerely,
